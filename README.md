@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Guntur Irwansyah</h1>
+<img align="center" alt="web-developer" width="100%" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif"
 <h3 align="justify">A passionate IoT Engineer and Android Mobile Developer, fast to learn. I studied network engineering during college, and also made several projects. such as IoT, network security, Mobile Applications, and artificial intelligence (AI), I am active in off-campus organizations, such as joining the Indonesian Mental Health Ambassador, and voulenteering. And also have individuals who are open to change, collaborative, hardworking, and enthusiastic about learning new things</h3>
 
 - 🌱 I’m currently learning **nativescript, and react**
